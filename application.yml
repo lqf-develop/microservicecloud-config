@@ -1,0 +1,19 @@
+spring:
+ profiles:
+   active:
+     - dev
+---   
+spring:
+  profiles: dev
+  application:
+   name: microservicecloud-config-lqf-dev
+        
+---    
+spring:
+  profiles: test
+  application:
+<<<<<<< HEAD
+   name: microservicecloud-config-lqf-test
+=======
+   name: microservicecloud-config-lqf-test
+>>>>>>> b9bdbc580cddb116800bbdd28767890679ed8e62

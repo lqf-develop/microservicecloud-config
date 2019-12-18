@@ -13,7 +13,3 @@ spring:
   profiles: test
   application:
    name: microservicecloud-config-lqf-test
-<<<<<<< HEAD
-
-=======
->>>>>>> 5e10dbc07b5141791d854e4c64d11cc9c05d8180
